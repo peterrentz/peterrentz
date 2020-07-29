@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on the news at The New York Times
+
+🌱 I’m currently reading The Power Broker by Robert Caro
+
+🌱 I want to learn CSS Grid
+
+⚡ Fun fact: I have a physics degree
+
 <!--
 **peterrentz/peterrentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
