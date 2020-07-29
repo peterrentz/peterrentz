@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on the news at The New York Times
+🔭 I’m currently working as a Principal Product Designer at The Times 
 
 🌱 I’m currently reading The Power Broker by Robert Caro
 
