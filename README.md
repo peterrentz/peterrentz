@@ -4,7 +4,7 @@
 
 🌱 I’m currently reading The Power Broker by Robert Caro
 
-🌱 I want to learn CSS Grid
+🧰 I want to learn CSS Grid
 
 ⚡ Fun fact: I have a physics degree
 
