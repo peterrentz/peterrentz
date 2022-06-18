@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working as a Principal Product Designer at The Times 
+🔭 I’m currently a Principal Product Designer at The Times 
 
-🌱 I’m currently reading The Power Broker by Robert Caro
+🌱 I’m currently reading The Scarlet Gang of Asakusa by Yasunari Kawabata
 
 🧰 I want to learn CSS Grid
 
