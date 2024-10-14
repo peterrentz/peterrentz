@@ -8,7 +8,7 @@
 
 ⚡ Fun fact: I have a physics degree but wish i studied history or writing.
 
-I love the web. https://www.peterrentz.com/
+I love the web.
 
 <!--
 **peterrentz/peterrentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
