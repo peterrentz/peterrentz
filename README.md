@@ -2,11 +2,11 @@
 
 🔭 I’m currently a Principal Product Designer at The Times 
 
-🌱 I’m currently reading The Scarlet Gang of Asakusa by Yasunari Kawabata
+🌱 I’m currently reading Paradise Bronx: The Life and Times of New York's Greatest Borough by Ian Frazier
 
-🧰 I want to learn CSS Grid
+🧰 I want to learn Svelte but probably should just draw more.
 
-⚡ Fun fact: I have a physics degree
+⚡ Fun fact: I have a physics degree but wish i studied history or writing.
 
 <!--
 **peterrentz/peterrentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
