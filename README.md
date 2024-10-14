@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently a Principal Product Designer at The Times 
+🔭 I’m currently a Principal Product Designer at The Times.
 
 🌱 I’m currently reading Paradise Bronx: The Life and Times of New York's Greatest Borough by Ian Frazier
 
-🧰 I want to learn Svelte but probably should just draw more.
+🧰 I want to learn Svelte. 
 
 ⚡ Fun fact: I have a physics degree but wish i studied history or writing.
 
