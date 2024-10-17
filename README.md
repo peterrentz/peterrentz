@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently a Principal Product Designer at The Times.
 
 🌱 I’m currently reading Paradise Bronx: The Life and Times of New York's Greatest Borough by Ian Frazier
 
