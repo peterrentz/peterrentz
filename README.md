@@ -1,11 +1,10 @@
-### Hi there 👋
+### What's My Status, Gladys?
 
+I’m currently reading The Years of Lyndon Johnson: Master of the Senate by Robert Caro
 
-🌱 I’m currently reading The Years of Lyndon Johnson: Master of the Senate by Robert Caro
+I want to learn Svelte. But would rather be taking pictures: www.peterrentz.com
 
-🧰 I want to learn Svelte. But would rather be taking pictures: www.peterrentz.com
-
-⚡ Fun fact: I have a physics degree but wish i studied history or writing. 
+Fun fact: I have a physics degree but wish i studied history or writing. 
 
 I love the web.
 
