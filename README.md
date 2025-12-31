@@ -2,6 +2,8 @@
 
 I’m currently reading The Years of Lyndon Johnson: Passage of Power by Robert Caro
 
+<img src="000068260017.jpg"/>
+
 
 <!--
 **peterrentz/peterrentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
