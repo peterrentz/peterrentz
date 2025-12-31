@@ -1,12 +1,7 @@
-### What's My Status, Gladys?
+### Status
 
-I’m currently reading The Years of Lyndon Johnson: Master of the Senate by Robert Caro
+I’m currently reading The Years of Lyndon Johnson: Passage of Power by Robert Caro
 
-I want to learn Svelte. But would rather be taking pictures: www.peterrentz.com
-
-Fun fact: I have a physics degree but wish i studied history or writing. 
-
-I love the web.
 
 <!--
 **peterrentz/peterrentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
