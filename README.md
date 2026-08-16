@@ -1,3 +1,4 @@
+I am a designer not a software engineer. 
 <img src="IMG_0522.jpg"/>
 <img src="000365450002.jpg"/>
 <img src="000068260017.jpg"/>
@@ -5,10 +6,10 @@
 ### Status
 
 I’m currently reading:
-- ‘No Way Back: Resurfacing Long-Lost Subculture and Music Journalism from 1977—1989’
+- ‘John Henry Days’ by Colson Whitehead
 
 Just finished:
-- ‘The Years of Lyndon Johnson: Passage of Power’ by Robert Caro 
+- ‘Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist’ by Liz Pelly
 
 <!--
 **peterrentz/peterrentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
