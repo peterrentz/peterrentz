@@ -1,5 +1,7 @@
 ## I am a designer not a software engineer. 
 
+I love typography and photograhpy (moving and still).
+
 <img src="IMG_0522.jpg"/>
 <img src="000365450002.jpg"/>
 <img src="000068260017.jpg"/>
