@@ -1,8 +1,6 @@
 ## I am a designer not a software engineer. 
 
-I once took a Fortan course though.
-I love typography and photograhpy (moving and still).
-
+I care about typography, photography (moving and still), information density and visual hierarchy.
 
 <img src="IMG_1095.JPG"/>
 <img src="IMG_0522.jpg"/>
