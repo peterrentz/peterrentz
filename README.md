@@ -3,9 +3,8 @@
 I once took a Fortan course though.
 I love typography and photograhpy (moving and still).
 
-https://peterrentz.github.io/20th-century-skateboarding/
 
-
+<img src="IMG_1095.JPG"/>
 <img src="IMG_0522.jpg"/>
 <img src="000365450002.jpg"/>
 <img src="000068260017.jpg"/>
