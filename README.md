@@ -5,6 +5,7 @@ I care about typography, photography (moving and still), information density and
 I'm open to work on book projects. Yes, print books. 
 
 <img src="IMG_1095.JPG"/>
+<img src="june-weekend_4716419650_o.jpg">
 <img src="IMG_0522.jpg"/>
 <img src="000365450002.jpg"/>
 <img src="000068260017.jpg"/>
