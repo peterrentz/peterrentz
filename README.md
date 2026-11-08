@@ -2,7 +2,7 @@
 
 I care about typography, photography (moving and still), information density and visual hierarchy.
 
-I open to work on book projects. Yes, print books. 
+I'm open to work on book projects. Yes, print books. 
 
 <img src="IMG_1095.JPG"/>
 <img src="IMG_0522.jpg"/>
